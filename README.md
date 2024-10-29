@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! 👋
+
+### About Me
+I am a PhD Candidate at MTG, specializing in the intersection of sleep neuroscience and sound technology. 
+My research focuses on adaptive closed-loop auditory stimulation to enhance slow-wave sleep.
 
 <!--
 **TinkevBuijtene/tinkevbuijtene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
